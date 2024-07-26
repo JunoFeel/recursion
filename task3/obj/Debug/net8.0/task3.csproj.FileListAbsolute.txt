@@ -1,0 +1,14 @@
+/Users/anpilogovaulia/Desktop/recursion/task3/bin/Debug/net8.0/task3
+/Users/anpilogovaulia/Desktop/recursion/task3/bin/Debug/net8.0/task3.deps.json
+/Users/anpilogovaulia/Desktop/recursion/task3/bin/Debug/net8.0/task3.runtimeconfig.json
+/Users/anpilogovaulia/Desktop/recursion/task3/bin/Debug/net8.0/task3.dll
+/Users/anpilogovaulia/Desktop/recursion/task3/bin/Debug/net8.0/task3.pdb
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.AssemblyInfoInputs.cache
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.AssemblyInfo.cs
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.csproj.CoreCompileInputs.cache
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.dll
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/refint/task3.dll
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.pdb
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/task3.genruntimeconfig.cache
+/Users/anpilogovaulia/Desktop/recursion/task3/obj/Debug/net8.0/ref/task3.dll
