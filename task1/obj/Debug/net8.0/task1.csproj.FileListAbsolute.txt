@@ -1,0 +1,14 @@
+/Users/anpilogovaulia/Desktop/recursion/task1/bin/Debug/net8.0/task1
+/Users/anpilogovaulia/Desktop/recursion/task1/bin/Debug/net8.0/task1.deps.json
+/Users/anpilogovaulia/Desktop/recursion/task1/bin/Debug/net8.0/task1.runtimeconfig.json
+/Users/anpilogovaulia/Desktop/recursion/task1/bin/Debug/net8.0/task1.dll
+/Users/anpilogovaulia/Desktop/recursion/task1/bin/Debug/net8.0/task1.pdb
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.AssemblyInfoInputs.cache
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.AssemblyInfo.cs
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.csproj.CoreCompileInputs.cache
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.dll
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/refint/task1.dll
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.pdb
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/task1.genruntimeconfig.cache
+/Users/anpilogovaulia/Desktop/recursion/task1/obj/Debug/net8.0/ref/task1.dll
